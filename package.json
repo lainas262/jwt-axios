@@ -1,0 +1,25 @@
+{
+  "name": "jwt-axios",
+  "version": "1.0.0",
+  "description": "Axios Wrapper that creates a custom axios instance that includes JWT authentication as part of every request.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lainas262/jwt-axios.git"
+  },
+  "keywords": [
+    "jwt",
+    "axios",
+    "ajax",
+    "authentication"
+  ],
+  "author": "Emmanuel Lainas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lainas262/jwt-axios/issues"
+  },
+  "homepage": "https://github.com/lainas262/jwt-axios#readme"
+}
